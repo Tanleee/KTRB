@@ -1,0 +1,95 @@
+[
+  {
+    "environment": "complex",
+    "paired_successes": 20,
+    "length_reduction_percent": {
+      "n": 20,
+      "mean": 22.46971553985666,
+      "std": 5.3184404770721665
+    },
+    "length_difference_m": {
+      "n": 20,
+      "mean": 7.108546708654652,
+      "std": 2.2645302023438685
+    },
+    "compute_time_ratio": {
+      "n": 20,
+      "mean": 2.6594734753150133,
+      "std": 0.773232475854211
+    },
+    "rrt_star_strictly_better": 20,
+    "wilcoxon": {
+      "paired_successes": 20,
+      "nonzero_pairs": 20,
+      "zero_pairs": 0,
+      "alternative": "two-sided",
+      "zero_method": "wilcox",
+      "difference_rounding_decimals": 9,
+      "statistic": 0.0,
+      "p_value": 1.9073486328125e-06,
+      "method": "exact"
+    }
+  },
+  {
+    "environment": "narrow",
+    "paired_successes": 17,
+    "length_reduction_percent": {
+      "n": 17,
+      "mean": 17.669736803858154,
+      "std": 5.04533055085985
+    },
+    "length_difference_m": {
+      "n": 17,
+      "mean": 2.9067918215388655,
+      "std": 1.0300645016666812
+    },
+    "compute_time_ratio": {
+      "n": 20,
+      "mean": 2.294544331188094,
+      "std": 0.44984946287680266
+    },
+    "rrt_star_strictly_better": 17,
+    "wilcoxon": {
+      "paired_successes": 17,
+      "nonzero_pairs": 17,
+      "zero_pairs": 0,
+      "alternative": "two-sided",
+      "zero_method": "wilcox",
+      "difference_rounding_decimals": 9,
+      "statistic": 0.0,
+      "p_value": 1.52587890625e-05,
+      "method": "exact"
+    }
+  },
+  {
+    "environment": "simple",
+    "paired_successes": 20,
+    "length_reduction_percent": {
+      "n": 20,
+      "mean": 16.27534600163288,
+      "std": 5.587128096172811
+    },
+    "length_difference_m": {
+      "n": 20,
+      "mean": 3.026095168437171,
+      "std": 1.3164713776142685
+    },
+    "compute_time_ratio": {
+      "n": 20,
+      "mean": 2.751166984890504,
+      "std": 0.19854955959560505
+    },
+    "rrt_star_strictly_better": 20,
+    "wilcoxon": {
+      "paired_successes": 20,
+      "nonzero_pairs": 20,
+      "zero_pairs": 0,
+      "alternative": "two-sided",
+      "zero_method": "wilcox",
+      "difference_rounding_decimals": 9,
+      "statistic": 0.0,
+      "p_value": 1.9073486328125e-06,
+      "method": "exact"
+    }
+  }
+]

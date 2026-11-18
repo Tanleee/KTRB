@@ -1,0 +1,4 @@
+environment,paired_successes,nonzero_pairs,zero_pairs,alternative,zero_method,difference_rounding_decimals,statistic,p_value,method
+complex,20,20,0,two-sided,wilcox,9,0.0,1.9073486328125e-06,exact
+narrow,17,17,0,two-sided,wilcox,9,0.0,1.52587890625e-05,exact
+simple,20,20,0,two-sided,wilcox,9,0.0,1.9073486328125e-06,exact

@@ -1,0 +1,9 @@
+{
+  "name": "narrow",
+  "bounds": [0, 12, 0, 12],
+  "start": [1, 2], "goal": [11, 10],
+  "obstacles": [
+    {"type": "rectangle", "x": 5.5, "y": 0, "width": 1, "height": 5.7},
+    {"type": "rectangle", "x": 5.5, "y": 6.3, "width": 1, "height": 5.7}
+  ]
+}

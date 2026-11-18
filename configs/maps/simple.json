@@ -1,0 +1,9 @@
+{
+  "name": "simple",
+  "bounds": [0, 12, 0, 12],
+  "start": [1, 1], "goal": [11, 11],
+  "obstacles": [
+    {"type": "rectangle", "x": 4, "y": 3, "width": 2, "height": 4},
+    {"type": "circle", "x": 8, "y": 8, "radius": 1.1}
+  ]
+}
